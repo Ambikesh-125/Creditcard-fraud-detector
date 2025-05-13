@@ -39,6 +39,10 @@ This project detects fraudulent credit card transactions using machine learning.
 5. Deploy model with a Flask API (`app.py`)
 6. Send test requests using `test.py`
 
+<img width="985" alt="Screenshot 2025-05-13 at 1 50 17 PM" src="https://github.com/user-attachments/assets/363d16c6-9e09-460d-b34b-3f8ddac466e9" />
+
+<img width="1440" alt="Screenshot 2025-05-13 at 1 51 39 PM" src="https://github.com/user-attachments/assets/36f69829-3f73-41f7-b92c-b321bed375f3" />
+
 ## 🚀 Getting Started
 
 ### 📦 Prerequisites
